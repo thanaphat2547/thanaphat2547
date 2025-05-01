@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello 👋 I'm Thanaphat Mothong
+
+🎓 I am currently a third-year student at **Huachiew Chalermprakiet University**,  
+studying in the **Faculty of Science and Technology**, majoring in **Computer Science**.
+
+🔗 View my GitHub Profile: [Click here]([http://127.0.0.1:5500/index.html](https://thanaphat2547.github.io/Thanaphat/))
 
 <!--
 **thanaphat2547/thanaphat2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
