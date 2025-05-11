@@ -1,7 +1,8 @@
 ## Hello 👋 I'm Thanaphat Mothong
 
-🎓 I am currently a third-year student at **Huachiew Chalermprakiet University**,  
-studying in the **Faculty of Science and Technology**, majoring in **Computer Science**.
+🎓 I am currently a third-year Computer Science major in the Faculty of Science and Technology at Huachiew Chalermprakiet University.
+
+
 
 🔗 View my GitHub Profile: [Click here](https://thanaphat2547.github.io/Thanaphat/)
 
